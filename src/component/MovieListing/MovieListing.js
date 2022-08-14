@@ -27,7 +27,8 @@ function MovieListing() {
 
       <h2>Shows</h2>
       <div className='movie-container'>
-        {renderShows}
+      <Slider {...settings}>{renderShows}</Slider>
+
         
         </div>
     </div>
