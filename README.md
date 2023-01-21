@@ -1,5 +1,17 @@
 # Getting Started with Create React App
 
+## Welcome in my project movie app with react and redux state management 
+- this project is application for redux-toolkit with react
+
+
+---
+
+Run `npm install` to install all dependencies 
+
+---
+## **Hope yo review my code and give a start if you liked it and i will be happy if i got a feedback for reviewing**
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
